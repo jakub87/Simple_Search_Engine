@@ -1,4 +1,5 @@
 # Simple_Search_Engine from hyperskill.org
+PROJECT WRITTEN IN JAVA 
 
 # Stage 1/6
 
